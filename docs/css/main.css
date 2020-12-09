@@ -171,7 +171,7 @@ main {
   .about-info .job-3 {
     grid-area: job3; }
   .about-info .job {
-    background: #515151;
+    background: #F6F6F6;
     padding: 0.5rem;
     border-bottom: #eece1a 5px solid; }
 
